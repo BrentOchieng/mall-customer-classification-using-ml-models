@@ -6,6 +6,8 @@ This project applies machine learning techniques to analyze and classify mall cu
 The goal is to predict customer segments using multiple models and compare their performance.
 
 ---
+- LINK TO THE NOTEBOOK: https://nbviewer.org/github/BrentOchieng/mall-customer-classification-using-ml-models/blob/main/mall_customer_classification.ipynb
+---
 
 ##  Objectives
 - Perform Exploratory Data Analysis (EDA)
